@@ -1,0 +1,9 @@
+name: AutoRepair
+version: '$version'
+main: de.crazydev22.repair.AutoRepair
+api-version: '1.21'
+load: STARTUP
+authors: [ CrazyDev22 ]
+
+commands:
+  "tool-heal": {}
